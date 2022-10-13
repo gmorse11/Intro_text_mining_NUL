@@ -1,4 +1,5 @@
-# Lesson Directory!!
+# Lesson Directory 
+**All content based on work created by Ithaka
 
 ## Python
 
